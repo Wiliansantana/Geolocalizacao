@@ -36,7 +36,7 @@ function startGame() {
 
 function preload() {
 	carImg = loadImage('https://www.flaticon.com/svg/static/icons/svg/1085/1085945.svg');
-	enemyCarImg = loadImage('https://wiliansantana.github.io/Geolocalizacao/img/a-removebg-preview.png'); 
+	enemyCarImg = loadImage('https://wiliansantana.github.io/Geolocalizacao/img/yoh-removebg-preview.png'); 
 }
 
 
