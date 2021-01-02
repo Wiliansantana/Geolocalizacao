@@ -36,7 +36,7 @@ function startGame() {
 
 function preload() {
 	carImg = loadImage('https://www.flaticon.com/svg/static/icons/svg/1085/1085945.svg');
-	enemyCarImg = loadImage('fp.png'); 
+	enemyCarImg = loadImage('![fp](https://user-images.githubusercontent.com/48594322/103460105-67129600-4cf2-11eb-9363-f32b7421c087.png)'); 
 }
 
 
